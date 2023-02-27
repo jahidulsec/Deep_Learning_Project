@@ -1,10 +1,4 @@
 # Image-Segmentation-with-U-Net
-## Coursera - CNN Programming Assignment
-
-### Disclaimer:
-The given solutions in this project are only for reference purpose.
-
-### Description of experiment
 
 Welcome! We'll be building our own U-Net, a type of CNN designed for quick, precise image segmentation, and using it to predict a label for every single pixel in an image - in this case, an image from a self-driving car dataset.
 
@@ -18,9 +12,3 @@ By the time we finish this notebook, we'll be able to:
 2. Explain the difference between a regular CNN and a U-net <br>
 3. Implement semantic image segmentation on the CARLA self-driving car dataset <br>
 4. Apply sparse categorical crossentropy for pixelwise prediction <br>
-
-### Acknowledgements
-
-https://www.coursera.org/learn/convolutional-neural-networks
-
-https://www.deeplearning.ai/program/deep-learning-specialization/
